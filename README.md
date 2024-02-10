@@ -6,7 +6,7 @@
 
 
 
-# 🤝 Connect with me:
+## 🤝 Connect with me:
 
 ##### 📝 Feel free to contact me. I am always here <img height="20" src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966"  />
 
@@ -34,7 +34,7 @@
 - 💬 ask me about anything, I am happy to help;
 - 💡 Fun Fact: In the world of coding, I've discovered the perfect balance between debugging and caffeinating - ensuring every line of code is as sharp as my morning tea!
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 ###### My expertise lies in optimizing web applications for seamless user experiences, maximizing traffic flow, and implementing innovative solutions to enhance operational efficiency and speed. Here is a snapshot of some of the tech stack I have proficiently utilized.
 
@@ -94,15 +94,15 @@
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   <br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SidraaAbdullah&theme=jolly&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SidraaAbdullah&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SidraaAbdullah&theme=jolly&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SidraaAbdullah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-# 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SidraaAbdullah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
