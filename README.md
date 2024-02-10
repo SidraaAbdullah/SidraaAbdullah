@@ -27,10 +27,12 @@
 
 <br>
 
-- 🔭 I am currently working as a Senior Software Engineer in a reputable company and a part-time freelancer.
+- 🌱 I am currently working as a Senior Software Engineer in a reputable company and a part-time freelancer.
+- 👯 I am seeking opportunities to contribute to javascript projects!
 - 💻 I am currently learning .NET 6 for web APIs.
 - 💼 any freelance work? do reach, <a href="mailto:sidraabdullah56@gmail.com"> sidraabdullah56@gmail.com</a>
 - 💬 ask me about anything, I am happy to help;
+- 💡 Fun Fact: In the world of coding, I've discovered the perfect balance between debugging and caffeinating - ensuring every line of code is as sharp as my morning tea!
 
 # 💻 Tech Stack:
 
