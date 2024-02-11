@@ -95,15 +95,12 @@
   <br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SidraaAbdullah&theme=jolly)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SidraaAbdullah&theme=jolly)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SidraaAbdullah&theme=jolly&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SidraaAbdullah&theme=highcontrast)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SidraaAbdullah&theme=highcontrast)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SidraaAbdullah&theme=highcontrast)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SidraaAbdullah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SidraaAbdullah&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
