@@ -100,7 +100,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SidraaAbdullah&theme=highcontrast)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SidraaAbdullah&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=SidraaAbdullah&theme=onedark&margin-w=4)
 
 
 
