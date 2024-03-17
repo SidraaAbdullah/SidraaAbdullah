@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/sidra-abdullah-875aa4190/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-    <a href="https://www.upwork.com/freelancers/~01254f0ca1b6cbd46a?viewMode=1&s=1110580755057594368">
+    <a href="[https://www.upwork.com/freelancers/~01254f0ca1b6cbd46a?viewMode=1&s=1110580755057594368](https://www.upwork.com/freelancers/~0172275fc9a7c9f02a?viewMode=1)">
   <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
       <a href="https://github.com/SidraaAbdullah">
