@@ -2,7 +2,7 @@
 
 <h4 align="center">Software developer || Full-stack developer || React developer || Web developer || Mobile App developer</h4>
 
-###### I'm a proficient Software Engineer with 4+ years of dedicated experience in the industry. Throughout my career, I have specialized in mobile and web development, leveraging my expertise to deliver innovative solutions that drive business success. My journey in software engineering has been marked by a commitment to excellence, continuous learning, and a relentless pursuit of mastery in my craft. Within this GitHub profile, you will find a curated collection of my projects showcasing my technical proficiency and problem-solving abilities. I would like you to explore my portfolio and witness firsthand the caliber of work I deliver. Thank you for visiting, and I look forward to potential collaborations and discussions 😊.
+###### I'm a proficient Software Engineer with 5+ years of dedicated experience in the industry. Throughout my career, I have specialized in mobile and web development, leveraging my expertise to deliver innovative solutions that drive business success. My journey in software engineering has been marked by a commitment to excellence, continuous learning, and a relentless pursuit of mastery in my craft. Within this GitHub profile, you will find a curated collection of my projects showcasing my technical proficiency and problem-solving abilities. I would like you to explore my portfolio and witness firsthand the caliber of work I deliver. Thank you for visiting, and I look forward to potential collaborations and discussions 😊.
 
 
 
