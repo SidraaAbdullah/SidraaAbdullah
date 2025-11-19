@@ -4,23 +4,6 @@
 
 ###### I'm a proficient Software Engineer with 5+ years of dedicated experience in the industry. Throughout my career, I have specialized in mobile and web development, leveraging my expertise to deliver innovative solutions that drive business success. My journey in software engineering has been marked by a commitment to excellence, continuous learning, and a relentless pursuit of mastery in my craft. Within this GitHub profile, you will find a curated collection of my projects showcasing my technical proficiency and problem-solving abilities. I would like you to explore my portfolio and witness firsthand the caliber of work I deliver. Thank you for visiting, and I look forward to potential collaborations and discussions 😊.
 
-
-
-<div align="left">
-<a href="mailto:sidraabdullah56@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=sidraabdullah56@gmail.com&logo=gmail&label=&color=D14836&logoColor=white" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/sidra-abdullah-875aa4190/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-    <a href="https://www.upwork.com/freelancers/~0172275fc9a7c9f02a?viewMode=1">
-  <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label&color=6fda44&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-      <a href="https://github.com/SidraaAbdullah">
-  <img src="https://img.shields.io/static/v1?message=github&logo=github&label&color=black&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
 <br>
 
 - 🌱 I am currently working as a Senior Software Engineer in a reputable company and a part-time freelancer.
